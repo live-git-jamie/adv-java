@@ -1,0 +1,17 @@
+/* external css stylesheet */
+/* this style can be applied to multiple html documents */
+
+/*syntax
+h2 is selector
+background-color is property
+darkseagreen is value */
+h2 {
+    background-color: darkseagreen;
+    color: red;
+}
+
+body{
+    background-image: url(apple.jpg);
+    background-repeat: false;
+    background-repeat: repeat-x;
+}
